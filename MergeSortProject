@@ -1,6 +1,7 @@
-[16,21,11,8,12,22] -> Merge Sort (PROJECT 2)
-1-Write steps of the array above according to Merge Sort
-2- What is the Big-O notation of that sorting ?
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
 
 1)
 
