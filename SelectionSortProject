@@ -29,7 +29,7 @@ Worst case, dizinin büyükten küçüğe sıralanmasıdır, her adımda bütün
 
 
 2)
-Step 1: 2|3 5 8 7 9 4 15 6 --> En küçük sayıyı(2) bulup en baştaki sayı(7) ile yer değiştirdik. 
-Step 2: 2 3|5 8 7 9 4 15 6 --> Kalanlar içinde(2 hariç) en küçük 3'ü bulduk kalanlar arasında en başta olduğu için işlem yapmadık
-Step 3: 2 3 4|8 7 9 5 15 6 --> Kalanlar içinde(2,3 hariç) en küçük sayıyı bulduk(4) kalanlar arasında en baştaki sayı(5) ile yer değiştirdik
-Step 4: 2 3 4 5|7 9 8 15 6 --> Kalanlar içinde(2,3,4 hariç) en küçük sayıyı bulduk(5) kalanlar arasında en baştaki sayı(8) ile yer değiştirdik
+ 2 3 5 8 7 9 4 15 6 --> En küçük sayıyı(2) bulup en baştaki sayı(7) ile yer değiştirdik. 
+ 2 3 5 8 7 9 4 15 6 --> Kalanlar içinde(2 hariç) en küçük 3'ü bulduk kalanlar arasında en başta olduğu için işlem yapmadık
+ 2 3 4 8 7 9 5 15 6 --> Kalanlar içinde(2,3 hariç) en küçük sayıyı bulduk(4) kalanlar arasında en baştaki sayı(5) ile yer değiştirdik
+ 2 3 4 5 7 9 8 15 6 --> Kalanlar içinde(2,3,4 hariç) en küçük sayıyı bulduk(5) kalanlar arasında en baştaki sayı(8) ile yer değiştirdik
